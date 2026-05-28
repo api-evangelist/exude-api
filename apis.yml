@@ -1,0 +1,32 @@
+aid: exude-api
+name: EXUDE-API
+description: "Used for the primary ways for filtering the stopping, stemming words from the text data"
+url: http://uttesh.com/exude-api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: EXUDE-API
+    description: "Used for the primary ways for filtering the stopping, stemming words from the text data"
+    humanURL: http://uttesh.com/exude-api/
+    baseURL: http://uttesh.com/exude-api/
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: http://uttesh.com/exude-api/
+common:
+  - type: Website
+    url: http://uttesh.com/exude-api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
