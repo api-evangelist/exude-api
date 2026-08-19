@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/exude-api.
 name: EXUDE-API
 description: "Used for the primary ways for filtering the stopping, stemming words from the text data"
 url: http://uttesh.com/exude-api/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
