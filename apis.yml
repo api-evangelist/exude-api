@@ -33,20 +33,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: EXUDE-API
     description: "Used for the primary ways for filtering the stopping, stemming words from the text data"
     humanURL: http://uttesh.com/exude-api/
-    baseURL: http://uttesh.com/exude-api/
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: http://uttesh.com/exude-api/
